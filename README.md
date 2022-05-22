@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supertinypeanut&layout=compact&exclude_repo=cordova-plugin-image-picker,searchable-symmetric-encryption,eight-hundred,vue2-webpack2-starter,vue-ts-starter,threejs-vr-example,awesome-vue-toast,hunt-mint-ui,vue-xpack-starter,node-static-server,M2Table,SAjax,dotFiles" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supertinypeanut&layout=compact&exclude_repo=cordova-plugin-image-picker,searchable-symmetric-encryption,eight-hundred,vue2-webpack2-starter,vue-ts-starter,threejs-vr-example,awesome-vue-toast,hunt-mint-ui,vue-xpack-starter,node-static-server,M2Table,SAjax,dotFiles" /> -->
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
